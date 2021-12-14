@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @wei-ns
+- I am working in NS as Senior DS.
 - 👀 I’m interested in Data Science/Machine Leaning/Deep Learning
 
 
